@@ -1,0 +1,12 @@
+body,
+html {
+  /* background-color: #faebd7; */
+}
+.container {
+  /* background-color: #faebd7; */
+  justify-content: center;
+}
+.submit {
+  color: #1e0f0f !important;
+  margin: 10PX;
+}

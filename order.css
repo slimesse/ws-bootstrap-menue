@@ -1,0 +1,14 @@
+
+.all {
+    display: flex !important;
+    justify-content:space-around !important;
+    
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    margin: 2%;
+    
+  }
+  
+  
+
